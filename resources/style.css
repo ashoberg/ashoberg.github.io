@@ -1,0 +1,128 @@
+.title {
+	margin-top:16px;
+
+}
+
+
+body {
+	margin-left:auto;
+	margin-right:auto;
+	width:900px;
+	background-color:black;
+
+}
+
+
+
+header{
+	margin-top:24px;
+}
+
+
+
+p {
+	color:white;
+	margin-top:16px;
+	margin-bottom:16px;
+}
+
+nav {
+	color:white;
+	text-align:center;
+	font-family:Oswald;
+	
+	
+}
+
+nav a {
+	color:red;
+	text-align:center;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+
+a:hover {
+	color:white;
+}
+
+h1 {
+	text-align:center;
+	color:red;
+	font-family:Oswald;
+
+}
+
+h2 {
+	color:white;
+	text-align:center;
+	margin-top:36px;
+	font-family:Oswald;
+}
+h3 {
+	color:white;
+	text-align:center;
+	margin-top:24px;
+}
+
+h4 {
+	color: red;
+}
+
+
+h5 {
+	color: red;
+}
+
+
+ul {
+	color:white;
+	margin-top:16px;
+	margin-bottom:16px;
+}
+
+li {
+	margin-top:16px;o
+	margin-bottom:16px;
+}
+
+footer {
+ color:white;
+ font-family: Oswald;
+ font-size:12px;
+}
+
+iframe {
+	margin-top: 24px;
+	margin-left:130px;
+	margin-right:64px; 
+	margin-bottom:24px;
+}
+
+#photo-grid {
+	margin-top: 16px;
+    column-count: 3;
+    column-gap: 24px;
+}
+
+img {
+    border-radius: 0.25em;
+    width: 100%;
+}
+
+#photo-grid img {
+    margin-top: 24px;
+    margin-bottom:36px;
+}
+
+
+
+
+footer {
+	text-align:center;
+	margin-top: 64px;
+	margin-bottom: 24px;
+}
